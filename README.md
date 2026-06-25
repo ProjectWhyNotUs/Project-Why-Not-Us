@@ -65,28 +65,33 @@ into one coherent framework.
 # Repository Structure
 
 ```
-Project Why Not Us
+project-why-not-us/
 │
-├── discussion-paper/
-│      Public introduction to the project
+├── README.md                      ← Start here
+├── LICENSE
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── PROJECT_PHILOSOPHY.md
+├── GOVERNANCE.md
+├── ROADMAP.md
+├── CHANGELOG.md
+├── CITATION.cff
+├── SECURITY.md                    ← Optional (for responsible disclosure)
 │
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── DISCUSSION_TEMPLATE.md
+│   └── FUNDING.yml (later)
+│
+├── docs/
 ├── nfdc/
-│      National Football Development Code
-│
 ├── research/
-│      Research papers, reports and literature
-│
-├── statistics/
-│      Data and analysis
-│
-├── references/
-│      Laws, regulations and policy documents
-│
+├── data/
 ├── proposals/
-│      Community proposals
-│
-└── community/
-       Contributor resources
+├── community/
+├── branding/
+└── archive/
 ```
 
 ---
