@@ -1,0 +1,58 @@
+cff-version: 1.2.0
+message: >
+If you use Project Why Not Us, the National Football Development Code (NFDC),
+or any of its associated publications, datasets or policy proposals in your
+research, publications, presentations or policy work, please cite this
+repository using the metadata below.
+
+title: "Project Why Not Us"
+
+type: report
+
+authors:
+
+* alias: "Project Why Not Us"
+
+abstract: >
+Project Why Not Us is a community-driven initiative dedicated to building
+an open, evidence-based future for Indian football through collaborative
+research, transparent governance and public participation. Its flagship
+initiative, the National Football Development Code (NFDC), is an evolving
+policy framework intended to support the long-term development of Indian
+football.
+
+repository-code: "https://github.com/ProjectWhyNotUs/project-why-not-us"
+
+repository-artifact: "https://github.com/ProjectWhyNotUs/project-why-not-us"
+
+url: "https://github.com/ProjectWhyNotUs/project-why-not-us"
+
+license: "CC-BY-SA-4.0"
+
+version: "0.1.0"
+
+date-released: "2026-06-25"
+
+keywords:
+
+* Indian Football
+* Football Governance
+* Football Policy
+* Sports Policy
+* NFDC
+* Grassroots Football
+* Football Law
+* Open Source
+* Community Research
+* Project Why Not Us
+
+preferred-citation:
+type: report
+title: "Why Not Us? — A Public Discussion Draft"
+authors:
+- alias: "Project Why Not Us"
+publisher:
+name: "Project Why Not Us"
+version: "0.1.0"
+date-released: "2026-06-25"
+url: "https://github.com/ProjectWhyNotUs/project-why-not-us"
